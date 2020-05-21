@@ -1,2 +1,2 @@
-# Assembly
-Assembly programs in MASM
+# Minesweeper
+Assembly program (minesweeper game code) in MASM
